@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debtirtha Ghosh</h1>
 <img align="riht" alt="Image" src="https://in.pinterest.com/pin/567523990538356835/">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debtirth&label=Profile%20views&color=0e75b6&style=flat" alt="debtirth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/>
+username=debtirth&label=Profile%20views&color=0e75b6&style=flat" alt="debtirth" /> </p>
 
 - 📫 How to reach me **debtirthaghosh2004@gmail.com**
 
